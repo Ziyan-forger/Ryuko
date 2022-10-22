@@ -31,8 +31,8 @@ let setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
 limitawal = '100'
-botname = 'RYUKO - MD'
-wm = '© RYUKO - MD'
+botname = 'ZETS - MD'
+wm = '© ZETS - MD'
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
