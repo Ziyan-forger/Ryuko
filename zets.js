@@ -31,8 +31,8 @@ let setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
 limitawal = '100'
-botname = 'ZETS - MD'
-wm = '© ZETS - MD'
+botname = 'RYUKO - MD'
+wm = '© RYUKO - MD'
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
@@ -663,9 +663,9 @@ addCountCmd(`#${command.slice(1)}`, sender, _cmd)
 ⌕ Script ori : https://github.com/DikaArdnt/zets-Morou
 
 Jangan lupa kasih bintang.
-⌕ Donate : 628125284895 (Dana / gopay)
-⌕ Saweria : https://saweria.co/Nando35
-⌕ Paypal : https://www.paypal.me/Rifando35
+⌕ Donate : 6285714056133 (Dana / gopay)
+⌕ Saweria : https://saweria.co/zynnxd
+⌕ Pulsa : 085714056133
 
 Dont Forget Donate
 `
