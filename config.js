@@ -16,14 +16,14 @@ global.xteam = 'apivproject'
 global.lolhuman = 'yourkey'
 
 // Other
-global.owner = ['6281252848955']
+global.owner = ['6285714056133']
 global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = '© Zets'
-global.packname = '© Zetspublic'
+global.ownername = 'ZynnXD'
+global.botname = '© ryuko'
+global.packname = '© Ryuko'
 global.gc = 'https://bit.ly/3KMlmv2'
-global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
-global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
+global.linkyt = 'https://youtube.com/channel/UCi3iQ7GEre7egnRKZEzkZOQ'
+global.linkgc = 'https://chat.whatsapp.com/Blm Ada'
 global.limitawal = '100'
 global.author = '@naando.jpeg\n@alya.xzy'
 global.sessionName = 'sessionya'
@@ -42,7 +42,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 30
 }
 global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
