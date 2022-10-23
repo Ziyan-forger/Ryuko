@@ -2690,231 +2690,185 @@ anu = `Hai kak ${pushname}, have a nice day:)
 ⫹⫺ *Waktu:* _${moment.tz('Asia/Jakarta').format('HH:mm:ss')}_ 
 ⫹⫺ *Library:* _Baileys-Md_
 
-✘ *Group*
-   ◦ ${prefix}linkgroup
-   ◦ ${prefix}ephemeral [option]
-   ◦ ${prefix}setppgc [image]
-   ◦ ${prefix}setname [text]
-   ◦ ${prefix}setdesc [text]
-   ◦ ${prefix}group [option]
-   ◦ ${prefix}editinfo [option]
-   ◦ ${prefix}add @user
-   ◦ ${prefix}kick @user
-   ◦ ${prefix}hidetag [text]
-   ◦ ${prefix}tagall [text]
-   ◦ ${prefix}antilink [on/off]
-   ◦ ${prefix}mute [on/off]
-   ◦ ${prefix}promote @user
-   ◦ ${prefix}demote @user
-   ◦ ${prefix}vote [text]
-   ◦ ${prefix}devote
-   ◦ ${prefix}upvote
-   ◦ ${prefix}cekvote
-   ◦ ${prefix}hapusvote
+✘ *𝘎𝘙𝘖𝘜𝘗*
+   ◦ ${prefix}𝘭𝘪𝘯𝘬𝘨𝘳𝘰𝘶𝘱
+   ◦ ${prefix}𝘦𝘱𝘩𝘦𝘮𝘦𝘳𝘢𝘭 [𝘰𝘱𝘵𝘪𝘰𝘯]
+   ◦ ${prefix}𝘴𝘦𝘵𝘱𝘱𝘨𝘤 [𝘪𝘮𝘢𝘨𝘦]
+   ◦ ${prefix}𝘴𝘦𝘵𝘯𝘢𝘮𝘦 [𝘵𝘦𝘹𝘵]
+   ◦ ${prefix}𝘴𝘦𝘵𝘥𝘦𝘴𝘤 [𝘵𝘦𝘹𝘵]
+   ◦ ${prefix}𝘨𝘳𝘰𝘶𝘱 [𝘰𝘱𝘵𝘪𝘰𝘯]
+   ◦ ${prefix}𝘦𝘥𝘪𝘵𝘪𝘯𝘧𝘰 [𝘰𝘱𝘵𝘪𝘰𝘯]
+   ◦ ${prefix}𝘢𝘥𝘥 @user
+   ◦ ${prefix}𝘬𝘪𝘤𝘬 @user
+   ◦ ${prefix}𝘩𝘪𝘥𝘦𝘵𝘢𝘨 [𝘵𝘦𝘹𝘵]
+   ◦ ${prefix}𝘵𝘢𝘨𝘢𝘭𝘭 [𝘵𝘦𝘹𝘵]
+   ◦ ${prefix}𝘢𝘯𝘵𝘪𝘭𝘪𝘯𝘬 [𝘰𝘯/𝘰𝘧𝘧]
+   ◦ ${prefix}𝘮𝘶𝘵𝘦 [𝘰𝘯/𝘰𝘧𝘧]
+   ◦ ${prefix}𝘱𝘳𝘰𝘮𝘰𝘵𝘦 @user
+   ◦ ${prefix}𝘥𝘦𝘮𝘰𝘵𝘦 @user
+   ◦ ${prefix}𝘷𝘰𝘵𝘦 [𝘵𝘦𝘹𝘵]
+   ◦ ${prefix}𝘥𝘦𝘷𝘰𝘵𝘦
+   ◦ ${prefix}𝘶𝘱𝘷𝘰𝘵𝘦
+   ◦ ${prefix}𝘤𝘦𝘬𝘷𝘰𝘵𝘦
+   ◦ ${prefix}𝘩𝘢𝘱𝘶𝘴𝘷𝘰𝘵𝘦
 
-✘ *Downloader*
-   ◦ ${prefix}tiktoknowm [url]
-   ◦ ${prefix}tiktokwm [url]
-   ◦ ${prefix}tiktokmp3 [url]
-   ◦ ${prefix}instagram [url]
-   ◦ ${prefix}twitter [url]
-   ◦ ${prefix}twittermp3 [url]
-   ◦ ${prefix}facebook [url]
-   ◦ ${prefix}pinterestdl [url]
-   ◦ ${prefix}ytmp3 [url]
-   ◦ ${prefix}ytmp4 [url]
-   ◦ ${prefix}getmusic [query]
-   ◦ ${prefix}getvideo [query]
-   ◦ ${prefix}umma [url]
-   ◦ ${prefix}joox [query]
-   ◦ ${prefix}soundcloud [url]
+✘ *𝘋𝘖𝘞𝘕𝘓𝘖𝘈𝘋𝘌𝘙*
+   ◦ ${prefix}𝘵𝘪𝘬𝘵𝘰𝘬𝘯𝘰𝘸𝘮 [𝘶𝘳𝘭]
+   ◦ ${prefix}𝘵𝘪𝘬𝘵𝘰𝘬𝘸𝘮 [𝘶𝘳𝘭]
+   ◦ ${prefix}𝘵𝘪𝘬𝘵𝘰𝘬𝘮𝘱3 [𝘶𝘳𝘭]
+   ◦ ${prefix}𝘪𝘴𝘵𝘢𝘨𝘳𝘢𝘮 [𝘶𝘳𝘭]
+   ◦ ${prefix}𝘵𝘸𝘪𝘵𝘵𝘦𝘳 [𝘶𝘳𝘭]
+   ◦ ${prefix}𝘵𝘸𝘪𝘵𝘵𝘦𝘳𝘮𝘱3 [𝘶𝘳𝘭]
+   ◦ ${prefix}𝘧𝘢𝘤𝘦𝘣𝘰𝘰𝘬 [𝘶𝘳𝘭]
+   ◦ ${prefix}𝘱𝘰𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘥 [url]
+   ◦ ${prefix}𝘺𝘵𝘮𝘱3 [𝘶𝘳𝘭]
+   ◦ ${prefix}𝘺𝘵𝘮𝘱4 [𝘶𝘳𝘭]
+   ◦ ${prefix}𝘨𝘦𝘵𝘮𝘶𝘴𝘪𝘤 [𝘲𝘶𝘦𝘳𝘺]
+   ◦ ${prefix}𝘨𝘦𝘵𝘷𝘪𝘥𝘦𝘰 [𝘲𝘶𝘦𝘳𝘺]
+   ◦ ${prefix}𝘶𝘮𝘮𝘢 [𝘶𝘳𝘭]
+   ◦ ${prefix}𝘫𝘰𝘰𝘹 [𝘲𝘶𝘦𝘳𝘺]
+   ◦ ${prefix}𝘴𝘰𝘶𝘯𝘥𝘤𝘭𝘰𝘶𝘥 [𝘶𝘳𝘭]
 
-✘ *Searching*
-   ◦ ${prefix}play [query]
-   ◦ ${prefix}yts [query]
-   ◦ ${prefix}google [query]
-   ◦ ${prefix}gimage [query]
-   ◦ ${prefix}pinterest [query]
-   ◦ ${prefix}wallpaper [query]
-   ◦ ${prefix}wikimedia [query]
-   ◦ ${prefix}ytsearch [query]
-   ◦ ${prefix}ringtone [query]
-   ◦ ${prefix}stalk [option] [query]
+✘ *𝘚𝘌𝘈𝘙𝘊𝘏𝘐𝘕𝘎*
+   ◦ ${prefix}𝘱𝘭𝘢𝘺 [𝘲𝘶𝘦𝘳𝘺]
+   ◦ ${prefix}𝘺𝘵𝘴 [𝘲𝘶𝘦𝘳𝘺]
+   ◦ ${prefix}𝘨𝘰𝘰𝘨𝘭𝘦 [𝘲𝘶𝘦𝘳𝘺]
+   ◦ ${prefix}𝘨𝘪𝘮𝘢𝘨𝘦 [𝘲𝘶𝘦𝘳𝘺]
+   ◦ ${prefix}𝘱𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵 [𝘲𝘶𝘦𝘳𝘺]
+   ◦ ${prefix}𝘸𝘢𝘭𝘭𝘱𝘢𝘱𝘦𝘳 [𝘲𝘶𝘦𝘳𝘺]
+   ◦ ${prefix}𝘸𝘪𝘬𝘪𝘮𝘦𝘥𝘪𝘢 [𝘲𝘶𝘦𝘳𝘺]
+   ◦ ${prefix}𝘺𝘵𝘴𝘦𝘢𝘳𝘤𝘩 [𝘲𝘶𝘦𝘳𝘺]
+   ◦ ${prefix}𝘳𝘪𝘯𝘨𝘵𝘰𝘯𝘦 [𝘲𝘶𝘦𝘳𝘺]
+   ◦ ${prefix}𝘴𝘵𝘢𝘭𝘬 [𝘰𝘱𝘵𝘪𝘰𝘯] [𝘲𝘶𝘦𝘳𝘺]
 
-✘ *Random*
-   ◦ ${prefix}coffe
-   ◦ ${prefix}quotesanime
-   ◦ ${prefix}motivasi
-   ◦ ${prefix}dilanquote
-   ◦ ${prefix}bucinquote
-   ◦ ${prefix}katasenja
-   ◦ ${prefix}puisi
-   ◦ ${prefix}couple
-   ◦ ${prefix}anime
-   ◦ ${prefix}waifu
-   ◦ ${prefix}husbu
-   ◦ ${prefix}neko
-   ◦ ${prefix}shinobu
-   ◦ ${prefix}waifus (nsfw)
-   ◦ ${prefix}nekos (nsfw)
-   ◦ ${prefix}trap (nsfw)
-   ◦ ${prefix}blowjob (nsfw)
+✘ *𝘙𝘈𝘕𝘋𝘖𝘔*
+   ◦ ${prefix}𝘤𝘰𝘧𝘧𝘦
+   ◦ ${prefix}𝘲𝘶𝘰𝘵𝘦𝘴𝘢𝘯𝘪𝘮𝘦
+   ◦ ${prefix}𝘮𝘰𝘵𝘪𝘷𝘢𝘴𝘪
+   ◦ ${prefix}𝘥𝘪𝘭𝘢𝘯𝘲𝘶𝘰𝘵𝘦
+   ◦ ${prefix}𝘣𝘶𝘤𝘪𝘯𝘲𝘶𝘰𝘵𝘦𝘴
+   ◦ ${prefix}𝘬𝘢𝘵𝘢𝘴𝘦𝘯𝘫𝘢
+   ◦ ${prefix}𝘱𝘶𝘪𝘴𝘪
+   ◦ ${prefix}𝘤𝘰𝘶𝘱𝘭𝘦
+   ◦ ${prefix}𝘢𝘯𝘪𝘮𝘦
+   ◦ ${prefix}𝘸𝘢𝘪𝘧𝘶
+   ◦ ${prefix}𝘩𝘶𝘴𝘣𝘶
+   ◦ ${prefix}𝘯𝘦𝘬𝘰
+   ◦ ${prefix}𝘴𝘩𝘪𝘯𝘰𝘣𝘶
+   ◦ ${prefix}𝘸𝘢𝘪𝘧𝘶𝘴 (𝘯𝘴𝘧𝘸)
+   ◦ ${prefix}𝘯𝘦𝘬𝘰𝘴 (𝘯𝘴𝘧𝘸)
+   ◦ ${prefix}𝘵𝘳𝘢𝘱 (𝘯𝘴𝘸𝘧)
+   ◦ ${prefix}𝘣𝘭𝘰𝘸𝘫𝘰𝘣 (𝘯𝘴𝘧𝘸)
 
-✘ *Textpro*
-   ◦ ${prefix}3dchristma
-   ◦ ${prefix}3ddeepsea
-   ◦ ${prefix}americanflag
-   ◦ ${prefix}3dscifi
-   ◦ ${prefix}3drainbow
-   ◦ ${prefix}3dwaterpipe
-   ◦ ${prefix}halloweenskeleton
-   ◦ ${prefix}sketch
-   ◦ ${prefix}bluecircuit
-   ◦ ${prefix}space
-   ◦ ${prefix}metallic
-   ◦ ${prefix}fiction
-   ◦ ${prefix}greenhorror
-   ◦ ${prefix}transformer
-   ◦ ${prefix}berry
-   ◦ ${prefix}thunder
-   ◦ ${prefix}magma
-   ◦ ${prefix}3dcrackedstone
-   ◦ ${prefix}3dneonlight
-   ◦ ${prefix}impressiveglitch
-   ◦ ${prefix}naturalleaves
-   ◦ ${prefix}fireworksparkle
-   ◦ ${prefix}matrix
-   ◦ ${prefix}dropwater
-   ◦ ${prefix}harrypotter
-   ◦ ${prefix}foggywindow
-   ◦ ${prefix}neondevils
-   ◦ ${prefix}christmasholiday
-   ◦ ${prefix}3dgradient
-   ◦ ${prefix}blackpink
-   ◦ ${prefix}gluetext
-
-✘ *Fun*
-   ◦ ${prefix}halah
-   ◦ ${prefix}hilih
-   ◦ ${prefix}huluh
-   ◦ ${prefix}heleh
-   ◦ ${prefix}holoh
-   ◦ ${prefix}jadian
-   ◦ ${prefix}jodohku
-   ◦ ${prefix}delttt
-   ◦ ${prefix}tictactoe
-   ◦ ${prefix}family100
-   ◦ ${prefix}tebak [option]
-   ◦ ${prefix}math [mode]
-   ◦ ${prefix}suitpvp [@tag]
+✘ *𝘍𝘜𝘕*
+   ◦ ${prefix}𝘩𝘢𝘭𝘢𝘩
+   ◦ ${prefix}𝘩𝘪𝘭𝘪𝘩
+   ◦ ${prefix}𝘩𝘶𝘭𝘶𝘩
+   ◦ ${prefix}𝘩𝘦𝘭𝘦𝘩
+   ◦ ${prefix}𝘩𝘰𝘭𝘰𝘩
+   ◦ ${prefix}𝘫𝘢𝘥𝘪𝘢𝘯
+   ◦ ${prefix}𝘫𝘰𝘥𝘰𝘩𝘬𝘶
+   ◦ ${prefix}𝘥𝘦𝘭𝘵𝘵𝘵
+   ◦ ${prefix}𝘵𝘪𝘤𝘵𝘢𝘤𝘵𝘰𝘦
+   ◦ ${prefix}𝘧𝘢𝘮𝘪𝘭𝘺100
+   ◦ ${prefix}𝘵𝘦𝘣𝘢𝘬 [𝘰𝘱𝘵𝘪𝘰𝘯]
+   ◦ ${prefix}𝘮𝘢𝘵𝘩 [𝘮𝘰𝘥𝘦]
+   ◦ ${prefix}𝘴𝘶𝘪𝘵𝘱𝘷𝘱 [@tag]
 
 ✘ *Primbon*
-   ◦ ${prefix}nomorhoki
-   ◦ ${prefix}artimimpi
-   ◦ ${prefix}artinama
-   ◦ ${prefix}ramaljodoh
-   ◦ ${prefix}ramaljodohbali
-   ◦ ${prefix}suamiistri
-   ◦ ${prefix}ramalcinta
-   ◦ ${prefix}cocoknama
-   ◦ ${prefix}pasangan
-   ◦ ${prefix}jadiannikah
-   ◦ ${prefix}sifatusaha
-   ◦ ${prefix}rezeki
-   ◦ ${prefix}pekerjaan
-   ◦ ${prefix}nasib
-   ◦ ${prefix}penyakit
-   ◦ ${prefix}tarot
-   ◦ ${prefix}fengshui
-   ◦ ${prefix}haribaik
-   ◦ ${prefix}harisangar
-   ◦ ${prefix}harisial
-   ◦ ${prefix}nagahari
-   ◦ ${prefix}arahrezeki
-   ◦ ${prefix}peruntungan
-   ◦ ${prefix}weton
-   ◦ ${prefix}karakter
-   ◦ ${prefix}keberuntungan
-   ◦ ${prefix}memancing
-   ◦ ${prefix}masasubur
-   ◦ ${prefix}zodiak
-   ◦ ${prefix}shio
+   ◦ ${prefix}𝘯𝘰𝘮𝘰𝘳𝘩𝘰𝘬𝘪
+   ◦ ${prefix}𝘢𝘳𝘵𝘪𝘮𝘪𝘮𝘱𝘪
+   ◦ ${prefix}𝘢𝘳𝘵𝘪𝘯𝘢𝘮𝘢
+   ◦ ${prefix}𝘳𝘢𝘮𝘢𝘭𝘫𝘰𝘥𝘰𝘩
+   ◦ ${prefix}𝘳𝘢𝘮𝘢𝘭𝘫𝘰𝘥𝘰𝘩𝘣𝘢𝘭𝘪
+   ◦ ${prefix}𝘴𝘶𝘢𝘮𝘪𝘪𝘴𝘵𝘳𝘪𝘬
+   ◦ ${prefix}𝘳𝘢𝘮𝘢𝘭𝘤𝘪𝘯𝘵𝘢
+   ◦ ${prefix}𝘤𝘰𝘤𝘰𝘬𝘯𝘢𝘮𝘢
+   ◦ ${prefix}𝘱𝘢𝘴𝘢𝘯𝘨𝘢𝘯
+   ◦ ${prefix}𝘫𝘢𝘥𝘪𝘯𝘯𝘪𝘬𝘢𝘩
+   ◦ ${prefix}𝘴𝘪𝘧𝘢𝘵𝘶𝘴𝘢𝘩𝘢
+   ◦ ${prefix}𝘳𝘦𝘻𝘦𝘬𝘪
+   ◦ ${prefix}𝘱𝘦𝘬𝘦𝘳𝘫𝘢𝘢𝘯
+   ◦ ${prefix}𝘯𝘢𝘴𝘪𝘣
+   ◦ ${prefix}𝘱𝘦𝘯𝘺𝘢𝘬𝘪𝘵
+   ◦ ${prefix}𝘵𝘢𝘳𝘰𝘵
+   ◦ ${prefix}𝘧𝘦𝘯𝘨𝘴𝘩𝘶𝘪
+   ◦ ${prefix}𝘩𝘢𝘳𝘪𝘣𝘢𝘪𝘬
+   ◦ ${prefix}𝘩𝘢𝘳𝘪𝘴𝘢𝘯𝘨𝘢𝘳
+   ◦ ${prefix}𝘩𝘢𝘳𝘪𝘴𝘪𝘢𝘭
+   ◦ ${prefix}𝘯𝘢𝘨𝘢𝘩𝘢𝘳𝘪
+   ◦ ${prefix}𝘢𝘳𝘢𝘩𝘳𝘦𝘻𝘦𝘬𝘪
+   ◦ ${prefix}𝘱𝘦𝘳𝘶𝘯𝘵𝘶𝘯𝘨𝘢𝘯
+   ◦ ${prefix}𝘸𝘦𝘵𝘰𝘯
+   ◦ ${prefix}𝘬𝘢𝘳𝘢𝘬𝘵𝘦𝘳
+   ◦ ${prefix}𝘬𝘦𝘣𝘦𝘳𝘶𝘯𝘵𝘶𝘯𝘨𝘢𝘯
+   ◦ ${prefix}𝘮𝘦𝘮𝘢𝘯𝘤𝘪𝘯𝘨
+   ◦ ${prefix}𝘮𝘢𝘴𝘢𝘴𝘶𝘣𝘶𝘳
+   ◦ ${prefix}𝘻𝘰𝘥𝘪𝘢𝘬
+   ◦ ${prefix}𝘴𝘩𝘪𝘰
 
 ✘ *Convert*
-   ◦ ${prefix}toimage
-   ◦ ${prefix}removebg
-   ◦ ${prefix}sticker
-   ◦ ${prefix}emojimix
-   ◦ ${prefix}tovideo
-   ◦ ${prefix}togif
-   ◦ ${prefix}tourl
-   ◦ ${prefix}tovn
-   ◦ ${prefix}tomp3
-   ◦ ${prefix}toaudio
-   ◦ ${prefix}ebinary
-   ◦ ${prefix}dbinary
-   ◦ ${prefix}styletext
+   ◦ ${prefix}𝘵𝘰𝘪𝘮𝘢𝘨𝘦
+   ◦ ${prefix}𝘳𝘦𝘮𝘰𝘷𝘦𝘣𝘨
+   ◦ ${prefix}𝘴𝘵𝘪𝘤𝘬𝘦𝘳
+   ◦ ${prefix}𝘦𝘮𝘰𝘫𝘪𝘮𝘪𝘹
+   ◦ ${prefix}𝘵𝘰𝘷𝘪𝘥𝘦𝘰
+   ◦ ${prefix}𝘵𝘰𝘨𝘪𝘧
+   ◦ ${prefix}𝘵𝘰𝘶𝘳𝘭
+   ◦ ${prefix}𝘵𝘰𝘷𝘯
+   ◦ ${prefix}𝘵𝘰𝘮𝘱3
+   ◦ ${prefix}𝘵𝘰𝘢𝘶𝘥𝘪𝘰
+   ◦ ${prefix}𝘦𝘣𝘪𝘯𝘢𝘳𝘺
+   ◦ ${prefix}𝘥𝘣𝘪𝘯𝘢𝘳𝘺
+   ◦ ${prefix}𝘴𝘵𝘺𝘭𝘦𝘵𝘦𝘹𝘵
 
 ✘ *Main*
-   ◦ ${prefix}ping
-   ◦ ${prefix}owner
-   ◦ ${prefix}menu / ${prefix}help / ${prefix}?
-   ◦ ${prefix}delete
-   ◦ ${prefix}infochat
-   ◦ ${prefix}quoted
-   ◦ ${prefix}listpc
-   ◦ ${prefix}listgc
-   ◦ ${prefix}listonline
-   ◦ ${prefix}speedtest
+   ◦ ${prefix}𝘱𝘪𝘯𝘨
+   ◦ ${prefix}𝘰𝘸𝘯𝘦𝘳
+   ◦ ${prefix}𝘮𝘦𝘯𝘶 / ${prefix}𝘩𝘦𝘭𝘱 / ${prefix}? 
+   ◦ ${prefix}𝘥𝘦𝘭𝘦𝘵𝘦
+   ◦ ${prefix}𝘪𝘯𝘧𝘰𝘤𝘩𝘢𝘵
+   ◦ ${prefix}𝘲𝘶𝘰𝘵𝘦𝘥
+   ◦ ${prefix}𝘭𝘪𝘴𝘵𝘱𝘤
+   ◦ ${prefix}𝘭𝘪𝘴𝘵𝘨𝘤
+   ◦ ${prefix}𝘭𝘪𝘴𝘵𝘰𝘯𝘭𝘪𝘯𝘦
+   ◦ ${prefix}𝘴𝘱𝘦𝘦𝘥𝘵𝘦𝘴𝘵
 
 ✘ *Database*
-   ◦ ${prefix}setcmd
-   ◦ ${prefix}listcmd
-   ◦ ${prefix}delcmd
-   ◦ ${prefix}lockcmd
-   ◦ ${prefix}addmsg
-   ◦ ${prefix}listmsg
-   ◦ ${prefix}getmsg
-   ◦ ${prefix}delmsg
+   ◦ ${prefix}𝘴𝘦𝘵𝘤𝘮𝘥
+   ◦ ${prefix}𝘭𝘪𝘴𝘵𝘤𝘮𝘥
+   ◦ ${prefix}𝘥𝘦𝘭𝘤𝘮𝘥
+   ◦ ${prefix}𝘭𝘰𝘤𝘬𝘤𝘮𝘥
+   ◦ ${prefix}𝘢𝘥𝘥𝘮𝘴𝘨
+   ◦ ${prefix}𝘭𝘪𝘴𝘵𝘮𝘴𝘨
+   ◦ ${prefix}𝘨𝘦𝘵𝘮𝘴𝘨
+   ◦ ${prefix}𝘥𝘦𝘭𝘮𝘴𝘨
 
 ✘ *Anonymous Chat*
-   ◦ ${prefix}anonymous
-   ◦ ${prefix}start
-   ◦ ${prefix}next
-   ◦ ${prefix}keluar
-   ◦ ${prefix}sendkontak
+   ◦ ${prefix}𝘢𝘯𝘰𝘯𝘺𝘮𝘰𝘶𝘴
+   ◦ ${prefix}𝘴𝘵𝘢𝘳𝘵
+   ◦ ${prefix}𝘯𝘦𝘹𝘵
+   ◦ ${prefix}𝘬𝘦𝘭𝘶𝘢𝘳
+   ◦ ${prefix}𝘴𝘦𝘯𝘥𝘬𝘰𝘯𝘵𝘢𝘬
 
 ✘ *Islam*
-   ◦ ${prefix}iqra
-   ◦ ${prefix}hadist
-   ◦ ${prefix}alquran
-   ◦ ${prefix}juzamma
-   ◦ ${prefix}tafsirsurah
-
-✘ *Voice Changer*
-   ◦ ${prefix}bass
-   ◦ ${prefix}blown
-   ◦ ${prefix}deep
-   ◦ ${prefix}earrape
-   ◦ ${prefix}fast
-   ◦ ${prefix}fat
-   ◦ ${prefix}nightcore
-   ◦ ${prefix}reverse
-   ◦ ${prefix}robot
-   ◦ ${prefix}slow
-   ◦ ${prefix}tupai
+   ◦ ${prefix}𝘪𝘲𝘳𝘢
+   ◦ ${prefix}𝘩𝘢𝘥𝘪𝘴𝘵
+   ◦ ${prefix}𝘢𝘭𝘲𝘶𝘳𝘢𝘯
+   ◦ ${prefix}𝘫𝘶𝘻𝘢𝘮𝘮𝘢
+   ◦ ${prefix}𝘵𝘢𝘧𝘴𝘪𝘳𝘴𝘶𝘳𝘢𝘩
 
 ✘ *Owner*
-   ◦ ${prefix}react [emoji]
-   ◦ ${prefix}chat [option]
-   ◦ ${prefix}join [link]
-   ◦ ${prefix}leave
-   ◦ ${prefix}block @user
-   ◦ ${prefix}unblock @user
-   ◦ ${prefix}bcgroup [text]
-   ◦ ${prefix}bcall [text]
-   ◦ ${prefix}setppbot [image]
-   ◦ ${prefix}setexif
+   ◦ ${prefix}𝘳𝘦𝘢𝘤𝘵 [𝘦𝘮𝘰𝘫𝘪]
+   ◦ ${prefix}𝘤𝘩𝘢𝘵 [𝘰𝘱𝘵𝘪𝘰𝘯]
+   ◦ ${prefix}𝘫𝘰𝘪𝘯 [𝘭𝘪𝘯𝘬]
+   ◦ ${prefix}𝘭𝘦𝘢𝘷𝘦
+   ◦ ${prefix}𝘣𝘭𝘰𝘤𝘬 @user
+   ◦ ${prefix}𝘶𝘯𝘣𝘭𝘰𝘤𝘬 @user
+   ◦ ${prefix}𝘣𝘤𝘨𝘳𝘰𝘶𝘱 [𝘵𝘦𝘹𝘵]
+   ◦ ${prefix}𝘣𝘤𝘢𝘭𝘭 [𝘵𝘦𝘹𝘵]
+   ◦ ${prefix}𝘴𝘦𝘵𝘱𝘱𝘣𝘰𝘵 [𝘪𝘮𝘢𝘨𝘦]
+   ◦ ${prefix}𝘴𝘦𝘵𝘦𝘹𝘪𝘧
 `
 var button = [{ buttonId: `dashboard`, buttonText: { displayText: `Dashboard` }, type: 1 }, { buttonId: `owner`, buttonText: { displayText: `Owner` }, type: 1 }]
 zets.sendMessage(m.chat, { caption: `${anu}`, location: { jpegThumbnail: await reSize(buffer, 200, 200) }, buttons: button, footer:  botname, mentions: [m.sender] })
